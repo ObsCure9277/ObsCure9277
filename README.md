@@ -9,7 +9,7 @@ I am a Software Engineering Year 2 student. Always looking for opportunities to 
 
 - ⚡ Fun fact : **Meme Lover**
 
-
+![Visitor Count](https://profile-counter.glitch.me/{ObsCure9277}/count.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
