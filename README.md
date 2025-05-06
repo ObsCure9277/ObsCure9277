@@ -14,17 +14,19 @@ I am a Software Engineering Year 2 student. Always looking for opportunities to 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linkedin)
 
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,js,java,flutter,dart,firebase,)](https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,js,java,flutter,dart,firebase,oracle)
 
 </p>
   <h3 align="left">Others:</h3>
   <p align="left"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva,figma)
+    
   </p>
