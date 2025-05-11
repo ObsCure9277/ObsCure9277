@@ -3,7 +3,7 @@ I am a Software Engineering Year 2 student. Always looking for opportunities to 
 
 - 📚 I’m currently studying at **TARUMT**
 
-- 🌱 I’m currently learning **Flutter, Dart and Firebase**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me : **ngshenzhiwork@gmail.com**
 
