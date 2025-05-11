@@ -20,10 +20,14 @@ I am a Software Engineering Year 2 student. Always looking for opportunities to 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,js,java,flutter,dart,firebase,oracle)
-
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,js,java,dart)
 </p>
+<p align="left"> 
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,mongodb,oracle)
+</p>
+
   <h3 align="left">Others:</h3>
   <p align="left"> 
     
