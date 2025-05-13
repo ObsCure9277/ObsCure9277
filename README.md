@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
 </p>
 
 <h3 align="center">Languages:</h3>
