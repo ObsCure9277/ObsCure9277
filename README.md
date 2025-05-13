@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/ng-shen-zhi-43126a361/)" target="blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ng-shen-zhi-43126a361/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
