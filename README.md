@@ -37,7 +37,7 @@
 <h3 align="center">Tools:</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,mongodb,oracle" alt="Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle" alt="Tools" />
 </p>
 
 <h3 align="center">Others:</h3>
