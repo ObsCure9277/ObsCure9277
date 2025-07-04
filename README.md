@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ng Shen Zhi</h1>
 
 <p align="center">
-<h3 align="center"><b>Software Engineering Year 2 student</b></h3>
+<h3 align="center"><b>Software Engineering Year 3 student</b></h3>
 </p>
 
 <p align="center">
