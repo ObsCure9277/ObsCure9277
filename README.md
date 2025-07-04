@@ -31,7 +31,7 @@
 <h3 align="center">Languages:</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,js,java,dart" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,assembly,js,java,dart" alt="Languages" />
 </p>
 
 <h3 align="center">Tools:</h3>
