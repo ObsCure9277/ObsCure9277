@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ObsCure9277&theme=dark&hide=" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&theme=dark&layout=compact&langs_count=10&exclude_repo=TARUMT-RSW-2326,ObsCure9277.github.io&card_width=300)"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&theme=dark&layout=compact&langs_count=10&exclude_repo=TARUMT-RSW-2325,ObsCure9277.github.io&card_width=300)"/>
 </a>
 </p>
 
