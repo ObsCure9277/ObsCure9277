@@ -30,4 +30,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle,firebase,canva,figma" alt="Tools" />
 </p>
 
-
+<p>
+  ![Snake animation](https://raw.githubusercontent.com/{ObsCure9277}/{ObsCure9277}/output/github-contribution-grid-snake-dark.svg)
+</p>
