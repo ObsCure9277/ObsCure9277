@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3>Connect with me:</h3>
+<h2>🌍 Connect with me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3>Languages & Tools:</h3>
+<h2>💻 Languages & Tools</h2>
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,assembly,js,java,dart" alt="Languages" />
