@@ -27,11 +27,7 @@
 </p>
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle,firebase" alt="Tools" />
-</p>
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,figma" alt="Other Skills" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle,firebase,canva,figma" alt="Tools" />
 </p>
 
 
