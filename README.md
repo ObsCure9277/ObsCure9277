@@ -20,14 +20,14 @@
   </a>
 </p>
 
-<h2 align="center">💻 Languages & Tools</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,assembly,js,java,dart" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,cpp,cs,assembly,js,java,dart,react,nextjs,tailwindcss" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle,firebase,canva,figma" alt="Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,oracle,firebase,npm,canva,figma" alt="Tools" />
 </p>
 
 <div align="center">
