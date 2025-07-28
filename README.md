@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,androidstudio,flutter,mysql,firebase,npm,canva,figma" alt="Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,mysql,firebase,npm,canva,figma" alt="Tools" />
 </p>
 
 <div align="center">
