@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ng Shen Zhi</h1>   
-
 <h3 align="center"><b>Software Engineering Year 3 student</b></h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -8,12 +13,8 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
-</div>
 
 <h2 align="center">🌍 Connect with me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,8 +24,8 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
 
+<h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -50,6 +51,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObsCure9277/ObsCure9277/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ObsCure9277/ObsCure9277/output/pacman-contribution-graph.svg">
@@ -57,7 +61,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
