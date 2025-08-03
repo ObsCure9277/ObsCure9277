@@ -22,20 +22,15 @@
   </tr>
 </table>
 
-
-
-<h3 align="center">🌍 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
   </a>
 </p>
 
-
-<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
