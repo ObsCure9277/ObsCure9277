@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ng Shen Zhi</h1>   
-<h3 align="center"><b>Software Engineering Year 3 student</b></h3>
+<h2 align="center">Hi 👋, I'm Ng Shen Zhi</h2>   
+<p align="center"><b>Software Engineering Year 3 student</b></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
