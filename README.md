@@ -14,7 +14,7 @@
 </p>
 
 
-<h2 align="center">🌍 Connect with me</h2>
+<h3 align="center">🌍 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 </p>
 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
