@@ -7,11 +7,21 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&theme=dark&layout=compact&langs_count=6&exclude_repo=TARUMT-RSW-2325,ObsCure9277.github.io&card_width=300)"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=ObsCure9277&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=320&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="center">🌍 Connect with me</h3>
