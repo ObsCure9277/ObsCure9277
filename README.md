@@ -23,18 +23,6 @@
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://github.com/ObsCure9277" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -59,8 +47,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<br>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://github.com/ObsCure9277" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" />
+  </a>
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObsCure9277/ObsCure9277/output/pacman-contribution-graph-dark.svg">
