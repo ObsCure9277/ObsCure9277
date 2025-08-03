@@ -16,7 +16,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=320&theme=radical" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=TARUMT-RSW-2325" />
       </a>
     </td>
   </tr>
