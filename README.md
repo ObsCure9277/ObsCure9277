@@ -29,6 +29,9 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
   </a>
+  <a href="https://github.com/ObsCure9277" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
