@@ -1,13 +1,13 @@
-<h2 align="center">Hi 👋, I'm Ng Shen Zhi</h2>   
-<p align="center"><b>Software Engineering Year 3 student</b></p>
+<h2>Hi 👋, I'm Ng Shen Zhi</h2>   
+<p><b>Software Engineering Year 3 student</b></p>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <br>
 
-<table align="center">
+<table>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
   </a>
