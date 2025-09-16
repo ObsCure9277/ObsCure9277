@@ -72,7 +72,10 @@
 ---
 <h1>📩 Connect with Me</h1>
 <p>
-  <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
+  <a href="https://ngshenzhi.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/NG SHEN ZHI-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ngshenzhi/" target="blank">
     <img src="https://img.shields.io/badge/ngshenzhi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
