@@ -19,11 +19,11 @@
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/c%23-388A34?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 <h2>Web & App Development</h2> 
 <p>
@@ -53,14 +53,13 @@
 <h1>📩 Connect with Me</h1>
 <p>
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=what&logoColor=white" />
+    <img src="https://img.shields.io/badge/ngshenzhi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ngshenzhiwork@gmail.com&logoColor=white" />
+    <img src="https://img.shields.io/badge/ngshenzhiwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
   <a href="https://github.com/ObsCure9277" target="blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/OBSCURE9277-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
