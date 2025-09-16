@@ -1,27 +1,20 @@
-<h2>Hi 👋, I'm Ng Shen Zhi</h2>   
+<h1>Hi 👋, I'm Ng Shen Zhi</h1>   
 <p><b>Software Engineering Year 3 student</b></p>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
 </div>
 
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ObsCure9277&theme=radical&hide=issues,contribs"/>
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/convoychat">
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=450&theme=radical&exclude_repo=TARUMT-RSW-2325" />
+</a>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=ObsCure9277&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=TARUMT-RSW-2325" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+---
+<h1>💻 Tech Stack</h1>  
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -46,16 +39,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+<h1>📩 Connect with Me</h1>
 <p>
   <a href="https://www.linkedin.com/in/ng-shen-zhi-43126a361" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=what&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ngshenzhiwork@gmail.com&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ngshenzhiwork@gmail.com&logoColor=white" />
+  
   <a href="https://github.com/ObsCure9277" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
