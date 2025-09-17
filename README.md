@@ -1,5 +1,16 @@
 <h1>Hi 👋, I'm Ng Shen Zhi</h1>   
 <p><b>Software Engineering Year 3 student</b></p>
+<p>
+  <a href="https://ngshenzhi.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/NG SHEN ZHI-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ngshenzhi/" target="blank">
+    <img src="https://img.shields.io/badge/ngshenzhi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/ngshenzhiwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
@@ -71,22 +82,15 @@
 </p>
 
 ---
-<h1>📩 Connect with Me</h1>
+<h1>📖 Learning</h1>
 <p>
-  <a href="https://ngshenzhi.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/NG SHEN ZHI-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://codepen.io/Ng-Shen-Zhi" target="blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ngshenzhi/" target="blank">
-    <img src="https://img.shields.io/badge/ngshenzhi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ngshenzhiwork@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/ngshenzhiwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ObsCure9277" target="blank">
-    <img src="https://img.shields.io/badge/OBSCURE9277-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.freecodecamp.org/obscure1227" target="blank">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   </a>
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObsCure9277/ObsCure9277/output/pacman-contribution-graph-dark.svg">
