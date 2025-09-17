@@ -84,11 +84,14 @@
 ---
 <h1>📖 Learning</h1>
 <p>
-  <a href="https://codepen.io/Ng-Shen-Zhi" target="blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
   <a href="https://www.freecodecamp.org/obscure1227" target="blank">
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/ngshenzhi/badges#credly" target="blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/Ng-Shen-Zhi" target="blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </p>
 
