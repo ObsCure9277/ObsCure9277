@@ -17,7 +17,7 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ObsCure9277&theme=radical&hide=issues,contribs"/>
+  
 </a>
 <br/>
 <a href="https://github.com/anuraghazra/convoychat">
