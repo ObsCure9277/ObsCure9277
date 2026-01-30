@@ -16,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=ObsCure9277&style=for-the-badge" alt="Profile views"/>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ObsCure9277&theme=radical&hide=issues,contribs"/>
-</a>
-
 ---
 <h1>💻 Workspace Spec</h1>
 <p>
