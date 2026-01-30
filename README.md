@@ -19,10 +19,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ObsCure9277&theme=radical&hide=issues,contribs"/>
 </a>
-<br/>
-<a href="https://github.com/anuraghazra/convoychat">
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ObsCure9277&layout=compact&langs_count=8&card_width=495&theme=radical&exclude_repo=TARUMT-RSW-2325" />
-</a>
 
 ---
 <h1>💻 Workspace Spec</h1>
